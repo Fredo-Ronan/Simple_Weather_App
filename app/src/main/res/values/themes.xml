@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.BMKGCuacaAPI" parent="Theme.Material3.DayNight">
+        <!-- Customize your light theme here. -->
+         <item name="colorPrimary">@color/signature_fr_color</item>
+    </style>
+
+    <style name="Theme.BMKGCuacaAPI" parent="Base.Theme.BMKGCuacaAPI"/>
+</resources>
